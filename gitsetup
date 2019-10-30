@@ -9,5 +9,4 @@ GIT SETUP
 	connect to your email account by typing git config --global user.email emailid
 	copy your github repository link and type command git clone url of repository
 	local copy of repository will be created 
-	to push data in the repository from local machine create a file and push the folder using
-	
+	to push data in the repository from local machine create a file and push the folder using git add filename

@@ -1,0 +1,13 @@
+GIT SETUP
+-create a local folder to clone the master repository
+-connect your github account with github
+  steps:
+    locate to the local folder directory by using command "cd drivename/"
+	check the files in the directory by typing command "ls"
+	locate the file and use the command cd filenanme/
+	connect your git to your github by typing git config --global user.name your github username
+	connect to your email account by typing git config --global user.email emailid
+	copy your github repository link and type command git clone url of repository
+	local copy of repository will be created 
+	to push data in the repository from local machine create a file and push the folder using
+	
